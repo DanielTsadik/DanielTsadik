@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Tsadik</h1>
-<h3 align="center">3RD year CS student from Ariel University</h3>
+<h3 align="center">M.Sc. Student in Data Science & Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltsadik&label=Profile%20views&color=0e75b6&style=flat" alt="danieltsadik" /> </p>
 
